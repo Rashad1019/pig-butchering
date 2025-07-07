@@ -1,0 +1,85 @@
+{
+  "analysis_timestamp": "2025-06-27T18:43:02.958764",
+  "total_visualizations_created": 6,
+  "key_findings": {
+    "temporal_patterns": {
+      "peak_activity_hours": "16-20 UTC (Asia-Pacific evening, US morning)",
+      "conversion_speed": "93% of $44B converted within 48 hours",
+      "weekend_impact": "27% reduction in activity on weekends",
+      "critical_window": "First 24 hours account for 65% of conversions",
+      "daily_volume_range": "$4.8B - $7.1B per day"
+    },
+    "banking_vulnerabilities": {
+      "highest_risk_bank": "TD Bank (Composite Score: 2.3/10)",
+      "total_new_accounts": "140M+ annually create exploitation opportunities",
+      "vulnerability_distribution": {
+        "critical_risk": "12.5% of banks",
+        "high_risk": "37.5% of banks",
+        "medium_risk": "50% of banks"
+      },
+      "success_rate": "89% of money successfully moved through banking system",
+      "primary_weakness": "Account opening processes (85% vulnerability score)"
+    },
+    "money_flow_timing": {
+      "speed_critical": "Success rate drops from 95% to 75% after 48 hours",
+      "seizure_risk_increase": "Risk increases 5x after 48-hour window",
+      "optimal_conversion_window": "6-18 hours (highest success rate)",
+      "enforcement_effectiveness": "Only 4% seizure rate within 48 hours"
+    },
+    "geographic_patterns": {
+      "top_revenue_countries": {
+        "Myanmar": "$18.2B (35.9%)",
+        "Cambodia": "$12.5B (24.7%)",
+        "Laos": "$8.7B (17.2%)"
+      },
+      "total_compounds": 145,
+      "total_workers": 313000,
+      "enforcement_correlation": "Lower enforcement scores correlate with higher revenues",
+      "worker_concentration": "Cambodia has highest worker density (2,667 per compound)"
+    },
+    "scam_lifecycle_patterns": {
+      "most_profitable_stage": "Operations (18 months, 8.5x ROI)",
+      "highest_risk_stage": "Enforcement (95% risk level)",
+      "total_lifecycle_duration": "35 months average",
+      "success_rate_decline": "From 95% (Setup) to 45% (Enforcement)",
+      "peak_efficiency": "Operations stage: 35 victims/day, 28% conversion, $150K average loss"
+    },
+    "enforcement_adaptation": {
+      "adaptation_lag": "Criminals adapt 6-12 months faster than enforcement",
+      "technology_impact": "AI adoption increased criminal effectiveness by 92%",
+      "success_rate_trend": "Criminal success declining 2-3% annually despite adaptation",
+      "enforcement_intensity": "Increased 4.5x since 2020",
+      "response_time_improvement": "Enforcement response lag reduced from 18 to 6 months"
+    }
+  },
+  "critical_insights": {
+    "speed_advantage": "48-hour window is critical - 93% success within this timeframe",
+    "banking_system_weakness": "140M new accounts annually create massive attack surface",
+    "geographic_concentration": "SE Asia accounts for 77.8% of global scam revenue",
+    "technology_arms_race": "Criminals adopting AI faster than enforcement can respond",
+    "scale_magnitude": "$44B annual losses with 313K forced workers",
+    "enforcement_gap": "Only 12% asset recovery rate despite increasing enforcement"
+  },
+  "predictive_indicators": {
+    "2025_projections": {
+      "global_losses": "$142.83B (224% increase)",
+      "us_losses": "$7.54B (90% increase)",
+      "technology_adoption": "Quantum-resistant crypto, biometric spoofing",
+      "enforcement_response": "Enhanced AI monitoring, international cooperation"
+    },
+    "risk_factors": {
+      "banking_vulnerabilities": "Persistent despite regulatory pressure",
+      "crypto_adoption": "Increasing sophistication in mixing services",
+      "geographic_expansion": "Operations spreading beyond traditional SE Asia base",
+      "technology_acceleration": "AI capabilities outpacing defensive measures"
+    }
+  },
+  "files_generated": [
+    "temporal_pattern_analysis.png",
+    "bank_vulnerability_analysis.png",
+    "money_flow_timing_analysis.png",
+    "geographic_pattern_analysis.png",
+    "scam_lifecycle_analysis.png",
+    "enforcement_adaptation_analysis.png"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "analysis_timestamp": "2025-06-27T18:50:19.310735",
+  "total_visualizations_created": 8,
+  "key_metrics": {
+    "current_scale_2024": {
+      "global_annual_losses": "$44.0B",
+      "se_asia_dominance": "58.7% of global losses",
+      "us_losses": "$3.96B",
+      "australia_losses": "$2.77B",
+      "cumulative_2020_2024": "$119.0B"
+    },
+    "projected_scale_2025": {
+      "global_projected": "$75.0B (+70.5%)",
+      "us_projected": "$7.54B (+90.4%)",
+      "australia_projected": "$4.8B (+73.3%)",
+      "se_asia_projected": "$85.2B (+93.6%)"
+    },
+    "growth_trajectory": {
+      "historical_cagr_2020_2024": "30.9%",
+      "projected_cagr_2025_2030": "21.1%",
+      "full_period_cagr_2020_2030": "29.2%",
+      "peak_growth_year": "2024 (110% YoY growth)"
+    },
+    "banking_involvement": {
+      "td_bank_total_impact": "$3.47B (losses + fines)",
+      "major_us_banks_combined": "$0.255B direct losses",
+      "total_new_accounts_annual": "140M+ creating vulnerability",
+      "highest_risk_institution": "TD Bank (9.8/10 risk score)"
+    },
+    "enforcement_gap": {
+      "current_recovery_rate": "12.0%",
+      "projected_recovery_2030": "21.8%",
+      "enforcement_budget_2024": "$5.8B",
+      "enforcement_budget_2030": "$36.8B (6.3x increase needed)"
+    }
+  },
+  "scenario_projections_2030": {
+    "conservative": "$156.1B",
+    "current_trend": "$195.1B",
+    "accelerated": "$253.6B",
+    "crisis": "$351.2B"
+  },
+  "critical_insights": {
+    "exponential_acceleration": "2024 marked inflection point with 110% growth",
+    "regional_concentration": "SE Asia increasing dominance (58.7% → 82% projected by 2030)",
+    "enforcement_lag": "Enforcement budget growing 4x slower than losses",
+    "banking_vulnerability": "TD Bank represents 67% of major bank losses despite 5.2% market share",
+    "recovery_improvement": "Recovery rate improving but still critically low (12% → 22% by 2030)",
+    "scale_magnitude": "Annual losses exceed GDP of 50+ countries by 2030"
+  },
+  "cagr_analysis_fixed": {
+    "global_2020_2024": "30.9%",
+    "se_asia_2020_2024": "50.8%",
+    "us_2020_2024": "21.8%",
+    "australia_2020_2024": "23.3%"
+  },
+  "files_generated": [
+    "regional_loss_distribution_analysis.png",
+    "growth_projections_analysis.png",
+    "bank_involvement_analysis.png",
+    "loss_magnitude_comparisons.png",
+    "fixed_growth_trajectory_analysis.png",
+    "scale_quantification_executive_dashboard.png"
+  ]
+}

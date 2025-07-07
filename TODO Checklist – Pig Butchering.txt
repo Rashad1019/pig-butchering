@@ -1,0 +1,104 @@
+# ✅ TODO Checklist – Pig Butchering Network Analysis (Universal PRD Format)
+
+We proceed **one task at a time**; subtasks one-at-a-time; **no advancement without permission**.  
+After every **2 completed tasks**, this list will be updated.
+
+---
+
+## 📌 Status Update  
+**As of:** 2025-07-07  
+**Last Completed Task:** ✅ Task 3 — Summary Document (all subtasks complete)  
+**Next Task to Start:** ▶️ Task 4 — Technical Implementation  
+**README writing is deferred until final stage.**
+
+---
+
+## 1. Repository Structure — ✅ Complete  
+**Goal:** Create a clean, understandable folder and file layout for your project.
+
+- [x] `README.md` – Landing page *(deferred to later)*
+- [x] `summary_report.pdf` – Business-focused summary
+- [x] `analysis_main.ipynb` – Technical notebook
+- [x] `requirements.txt` or `environment.yml` – Reproducibility
+- [x] `/assets/` – Visuals, exports
+- [x] `/data/` – Raw or processed datasets
+- [x] Tool-agnostic structure (no Jupyter-specific dependencies)
+- [x] Relative paths only
+
+---
+
+## 2. README.md — ⬜ Deferred  
+**Goal:** Serve as the project's public introduction.
+
+- [ ] One-paragraph overview
+- [ ] Business impact
+- [ ] Tooling used
+- [ ] Setup/usage instructions (if applicable)
+- [ ] Contact info
+- [ ] Link to summary file
+- [ ] Link to analysis notebook
+
+✅ **Checkpoint:** Pause after Tasks 1 and 2 for confirmation.
+
+---
+
+## 3. Summary Document — ✅ Complete  
+**Goal:** Present key business insights in a standalone, digestible format.
+
+- [x] ✅ Task 3.1 — Validate PDF summary
+- [x] ✅ Task 3.2 — Problem framing
+- [x] ✅ Task 3.3 — Goals & audience
+- [x] ✅ Task 3.4 — High-level methods
+- [x] ✅ Task 3.5 — Key findings (with visuals)
+- [x] ✅ Task 3.6 — Strategic takeaways
+
+✅ PDF format accepted
+
+---
+
+## 4. Technical Implementation — ⬜ Pending  
+**Goal:** Provide reproducible, inspectable code or analysis logic.
+
+- [ ] Complete analysis in `analysis_main.ipynb`
+- [ ] All key steps documented inline
+- [ ] Outputs match summary
+- [ ] Notebook runs cleanly in declared environment
+
+✅ **Checkpoint:** Pause again after Tasks 3 and 4.
+
+---
+
+## 5. LinkedIn & Blog Promotion — ⬜ Pending  
+**Goal:** Publicize the project and improve discoverability.
+
+- [ ] LinkedIn post (problem → win → repo link)
+- [ ] Blog post (optional, narrative format, visuals)
+
+---
+
+## 6. Resume Integration — ⬜ Pending  
+**Goal:** Summarize into 3 resume-ready bullet points.
+
+- [ ] Action taken
+- [ ] Method or tool used
+- [ ] Result or impact (quantified where possible)
+
+✅ **Checkpoint:** Pause again after Tasks 5 and 6.
+
+---
+
+## 7. Interview Preparation — ⬜ Pending  
+**Goal:** Prepare this project for discussion during interviews.
+
+- [ ] Problem you addressed
+- [ ] Key decisions or trade-offs
+- [ ] Obstacles you faced
+- [ ] What made it valuable
+- [ ] What you'd improve
+
+---
+
+## 🔁 Workflow Rules  
+- **One task at a time**  
+- **Mandatory pause after every 2 tasks**  
+- **Nothing proceeds without explicit user approval**

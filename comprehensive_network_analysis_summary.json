@@ -1,0 +1,75 @@
+{
+  "analysis_timestamp": "2025-07-05T22:08:20.549204",
+  "network_composition": {
+    "total_nodes": 22,
+    "total_edges": 21,
+    "network_density": 0.09090909090909091,
+    "average_clustering": 0.0,
+    "number_of_components": 8
+  },
+  "entity_breakdown": {
+    "crime_syndicates": 4,
+    "banks": 7,
+    "locations": 5,
+    "crypto_services": 6
+  },
+  "key_findings": {
+    "most_connected_node": "Sun Yee On",
+    "most_connected_centrality": 0.23809523809523808,
+    "critical_intermediary": "Sun Yee On",
+    "intermediary_score": 0.24444444444444444,
+    "highest_risk_bank": "TD Bank",
+    "primary_crypto_method": "P2P Networks",
+    "dominant_location": "Myanmar"
+  },
+  "relationship_analysis": {
+    "money_laundering_connections": 5,
+    "crypto_conversion_connections": 5,
+    "operational_connections": 3,
+    "headquarters_connections": 4,
+    "direct_conversion_connections": 4
+  },
+  "risk_assessment": {
+    "highest_risk_entities": {
+      "crime_syndicate": "Sun Yee On (Revenue: $15.0B)",
+      "bank": "TD Bank (Risk Score: 9.8/10, Losses: $3.47B)",
+      "location": "Myanmar (Revenue: $18.2B, Enforcement: 1.8/10)",
+      "crypto": "P2P Networks (Volume: $12.3B, No Regulation)"
+    },
+    "vulnerability_hotspots": [
+      "TD Bank – HSBC – P2P Networks triangle",
+      "Myanmar – Cambodia operational corridor",
+      "Hong Kong syndicate headquarters cluster",
+      "Deltec Bank – Binance crypto gateway"
+    ]
+  },
+  "network_patterns": {
+    "hub_and_spoke": "Crime syndicates act as central hubs with multiple connections",
+    "layered_structure": "Clear separation between operational, financial, and conversion layers",
+    "geographic_clustering": "Southeast Asian locations form tight operational clusters",
+    "crypto_convergence": "Multiple pathways converge on P2P networks and mixing services",
+    "banking_bottlenecks": "TD Bank and HSBC serve as critical financial chokepoints"
+  },
+  "enforcement_implications": {
+    "critical_targets": [
+      "TD Bank (highest centrality and risk)",
+      "P2P Networks (crypto conversion hub)",
+      "Myanmar operations (highest revenue location)",
+      "Sun Yee On (most connected syndicate)"
+    ],
+    "disruption_strategies": [
+      "Target high-betweenness nodes to fragment network",
+      "Focus on crypto conversion chokepoints",
+      "Coordinate enforcement across SE Asian locations",
+      "Enhanced banking compliance for high-risk institutions"
+    ]
+  },
+  "files_generated": [
+    "master_network_visualization.png",
+    "crime_syndicate_network.png",
+    "banking_network_analysis.png",
+    "crypto_conversion_network.png",
+    "geographic_distribution_network.png",
+    "network_centrality_analysis.png"
+  ]
+}

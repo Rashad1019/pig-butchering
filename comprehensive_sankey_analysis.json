@@ -1,0 +1,53 @@
+{
+  "creation_timestamp": "2025-07-05T21:30:35.707400",
+  "total_diagrams_created": 4,
+  "diagrams": {
+    "regional_flow_breakdown": {
+      "description": "Regional losses and conversion methods",
+      "total_flow_tracked": "$160.0B",
+      "file": "regional_flow_sankey.html",
+      "key_insights": [
+        "SE Asia generates 58% of total losses ($44B)",
+        "Cryptocurrency preferred conversion method (67% of flows)",
+        "Cambodia and Myanmar top destinations"
+      ]
+    },
+    "crypto_conversion_flow": {
+      "description": "Detailed cryptocurrency laundering process",
+      "total_flow_tracked": "$105.0B",
+      "file": "crypto_conversion_sankey.html",
+      "key_insights": [
+        "Centralized exchanges handle 45% of conversions",
+        "P2P trading accounts for 32% of volume",
+        "Scam compounds receive majority of funds (54%)"
+      ]
+    },
+    "temporal_conversion": {
+      "description": "48-hour conversion timeline analysis",
+      "total_flow_tracked": "$44.0B",
+      "file": "temporal_conversion_sankey.html",
+      "key_insights": [
+        "93% converted within 48 hours ($40.92B)",
+        "Only 4% seized by authorities ($1.76B)",
+        "Speed critical to laundering success"
+      ]
+    },
+    "bank_vulnerability": {
+      "description": "Banking system exploitation patterns",
+      "total_flow_tracked": "$833.9B",
+      "file": "bank_vulnerability_sankey.html",
+      "key_insights": [
+        "140M+ new accounts annually create opportunities",
+        "Major US banks handle 91.8B in suspicious flows",
+        "89% success rate in money movement"
+      ]
+    }
+  },
+  "files_created": [
+    "regional_flow_sankey.html",
+    "crypto_conversion_sankey.html",
+    "temporal_conversion_sankey.html",
+    "bank_vulnerability_sankey.html"
+  ],
+  "total_money_flow_analyzed": "$1142.9B"
+}

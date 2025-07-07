@@ -1,0 +1,387 @@
+{
+  "financial_flows": {
+    "global_losses": {
+      "2020": 15.0,
+      "2021": 18.5,
+      "2022": 20.5,
+      "2023": 21.0,
+      "2024": 44.0,
+      "cumulative_2020_2024": 75.0,
+      "projected_2025_global": 142.83,
+      "projected_2025_us": 7.54
+    },
+    "regional_distribution": {
+      "United States": 3.96,
+      "Australia": 2.77,
+      "Southeast Asia": 44.0,
+      "Other Regions": 24.27
+    },
+    "conversion_patterns": {
+      "crypto_conversion_48hrs": 0.93,
+      "total_crypto_losses_2024": 3.6,
+      "tether_seized": 0.225,
+      "average_victim_loss": 0.15
+    },
+    "bank_specific_losses": {
+      "TD Bank": {
+        "direct_losses": 0.47,
+        "fines": 3.0,
+        "total_impact": 3.47
+      },
+      "Chase_BofA_Wells": 0.08,
+      "Other_Banks": 1.5
+    }
+  },
+  "banking_network": {
+    "primary_banks": {
+      "JPMorgan Chase": {
+        "involvement_level": "High",
+        "losses": 0.03,
+        "vulnerabilities": [
+          "Account opening",
+          "Wire transfers"
+        ],
+        "new_accounts_annual": 25000000
+      },
+      "Bank of America": {
+        "involvement_level": "High",
+        "losses": 0.025,
+        "vulnerabilities": [
+          "KYC gaps",
+          "Transaction monitoring"
+        ],
+        "new_accounts_annual": 20000000
+      },
+      "Wells Fargo": {
+        "involvement_level": "Medium",
+        "losses": 0.025,
+        "vulnerabilities": [
+          "Cross-border transfers"
+        ],
+        "new_accounts_annual": 15000000
+      },
+      "TD Bank": {
+        "involvement_level": "Critical",
+        "losses": 0.47,
+        "vulnerabilities": [
+          "AML failures",
+          "Compliance gaps"
+        ],
+        "new_accounts_annual": 8000000
+      },
+      "Citibank": {
+        "involvement_level": "Medium",
+        "losses": 0.15,
+        "vulnerabilities": [
+          "International transfers"
+        ],
+        "new_accounts_annual": 12000000
+      },
+      "HSBC": {
+        "involvement_level": "Medium",
+        "losses": 0.12,
+        "vulnerabilities": [
+          "Asia-Pacific corridors"
+        ],
+        "new_accounts_annual": 10000000
+      },
+      "Deltec Bank": {
+        "involvement_level": "High",
+        "losses": 0.08,
+        "vulnerabilities": [
+          "Crypto integration"
+        ],
+        "new_accounts_annual": 2000000
+      }
+    },
+    "total_new_accounts_annual": 140000000,
+    "vulnerability_score": {
+      "account_opening_weaknesses": 0.85,
+      "kyc_compliance_gaps": 0.72,
+      "transaction_monitoring": 0.68,
+      "cross_border_oversight": 0.79
+    }
+  },
+  "crime_syndicates": {
+    "Sun Yee On": {
+      "origin": "Hong Kong",
+      "estimated_revenue": 15.0,
+      "primary_operations": [
+        "Cryptocurrency",
+        "Banking fraud",
+        "Romance scams"
+      ],
+      "geographic_reach": [
+        "Hong Kong",
+        "Mainland China",
+        "Southeast Asia",
+        "North America"
+      ]
+    },
+    "Karen Border Guard Force": {
+      "origin": "Myanmar",
+      "estimated_revenue": 8.5,
+      "primary_operations": [
+        "Pig butchering",
+        "Forced labor",
+        "Crypto conversion"
+      ],
+      "geographic_reach": [
+        "Myanmar",
+        "Thailand",
+        "Cambodia",
+        "Laos"
+      ]
+    },
+    "14K Triad": {
+      "origin": "Hong Kong",
+      "estimated_revenue": 6.2,
+      "primary_operations": [
+        "Money laundering",
+        "Cybercrime",
+        "Human trafficking"
+      ],
+      "geographic_reach": [
+        "Hong Kong",
+        "Macau",
+        "Southeast Asia"
+      ]
+    },
+    "Wo Shing Wo": {
+      "origin": "Hong Kong",
+      "estimated_revenue": 4.8,
+      "primary_operations": [
+        "Romance scams",
+        "Investment fraud",
+        "Crypto laundering"
+      ],
+      "geographic_reach": [
+        "Hong Kong",
+        "Taiwan",
+        "Southeast Asia",
+        "Australia"
+      ]
+    }
+  },
+  "geographic_operations": {
+    "scam_compounds": {
+      "Cambodia": {
+        "estimated_compounds": 45,
+        "estimated_workers": 120000,
+        "annual_revenue": 12.5,
+        "primary_cities": [
+          "Sihanoukville",
+          "Phnom Penh",
+          "Poipet"
+        ]
+      },
+      "Myanmar": {
+        "estimated_compounds": 38,
+        "estimated_workers": 85000,
+        "annual_revenue": 18.2,
+        "primary_cities": [
+          "Myawaddy",
+          "Laukkaing",
+          "Yangon"
+        ]
+      },
+      "Laos": {
+        "estimated_compounds": 22,
+        "estimated_workers": 45000,
+        "annual_revenue": 8.7,
+        "primary_cities": [
+          "Golden Triangle SEZ",
+          "Vientiane",
+          "Boten"
+        ]
+      },
+      "Philippines": {
+        "estimated_compounds": 15,
+        "estimated_workers": 25000,
+        "annual_revenue": 4.6,
+        "primary_cities": [
+          "Manila",
+          "Cebu",
+          "Clark"
+        ]
+      }
+    },
+    "money_flow_routes": {
+      "Asia_to_US": {
+        "volume": 18.5,
+        "primary_methods": [
+          "Wire transfers",
+          "Crypto",
+          "Trade-based"
+        ],
+        "conversion_rate": 0.89
+      },
+      "Asia_to_Australia": {
+        "volume": 8.2,
+        "primary_methods": [
+          "Banking",
+          "Crypto",
+          "Cash"
+        ],
+        "conversion_rate": 0.91
+      },
+      "Intra_Asia": {
+        "volume": 25.3,
+        "primary_methods": [
+          "Crypto",
+          "Underground banking",
+          "Cash"
+        ],
+        "conversion_rate": 0.95
+      }
+    }
+  },
+  "timeline_events": {
+    "2020": [
+      {
+        "date": "2020-03-15",
+        "event": "COVID-19 accelerates online scam operations",
+        "impact": 2.5
+      },
+      {
+        "date": "2020-08-20",
+        "event": "First major pig butchering cases reported",
+        "impact": 1.8
+      }
+    ],
+    "2021": [
+      {
+        "date": "2021-02-10",
+        "event": "Romance scam losses surge 80%",
+        "impact": 3.2
+      },
+      {
+        "date": "2021-09-15",
+        "event": "Crypto integration accelerates",
+        "impact": 4.1
+      },
+      {
+        "date": "2021-11-30",
+        "event": "First compound raids in Cambodia",
+        "impact": -0.5
+      }
+    ],
+    "2022": [
+      {
+        "date": "2022-01-25",
+        "event": "Investment scam sophistication increases",
+        "impact": 2.8
+      },
+      {
+        "date": "2022-06-12",
+        "event": "Cross-border enforcement cooperation begins",
+        "impact": -0.8
+      },
+      {
+        "date": "2022-10-08",
+        "event": "Major crypto seizures ($500M+)",
+        "impact": -1.2
+      }
+    ],
+    "2023": [
+      {
+        "date": "2023-03-20",
+        "event": "AI integration in scam operations",
+        "impact": 3.5
+      },
+      {
+        "date": "2023-07-15",
+        "event": "Banking compliance failures exposed",
+        "impact": 2.1
+      },
+      {
+        "date": "2023-12-01",
+        "event": "International task force formation",
+        "impact": -1.5
+      }
+    ],
+    "2024": [
+      {
+        "date": "2024-02-28",
+        "event": "Record $44B annual losses reported",
+        "impact": 5.2
+      },
+      {
+        "date": "2024-05-15",
+        "event": "TD Bank $3B fine imposed",
+        "impact": -2.1
+      },
+      {
+        "date": "2024-08-30",
+        "event": "$225M Tether seizure",
+        "impact": -0.8
+      },
+      {
+        "date": "2024-11-10",
+        "event": "Enhanced crypto monitoring deployed",
+        "impact": -1.3
+      }
+    ]
+  },
+  "enforcement_actions": {
+    "seizures": {
+      "2022": {
+        "crypto": 0.5,
+        "cash": 0.2,
+        "assets": 0.3
+      },
+      "2023": {
+        "crypto": 0.8,
+        "cash": 0.15,
+        "assets": 0.45
+      },
+      "2024": {
+        "crypto": 1.2,
+        "cash": 0.1,
+        "assets": 0.6
+      }
+    },
+    "arrests": {
+      "2022": 245,
+      "2023": 380,
+      "2024": 520
+    },
+    "success_rate": {
+      "asset_recovery": 0.12,
+      "conviction_rate": 0.68,
+      "cross_border_cooperation": 0.45
+    }
+  },
+  "crypto_ecosystem": {
+    "primary_currencies": {
+      "Tether (USDT)": {
+        "volume": 15.2,
+        "seizures": 0.225
+      },
+      "Bitcoin (BTC)": {
+        "volume": 8.7,
+        "seizures": 0.18
+      },
+      "Ethereum (ETH)": {
+        "volume": 6.3,
+        "seizures": 0.12
+      },
+      "Other": {
+        "volume": 4.8,
+        "seizures": 0.08
+      }
+    },
+    "conversion_methods": {
+      "Centralized_Exchanges": 0.45,
+      "P2P_Trading": 0.32,
+      "Mixing_Services": 0.15,
+      "DeFi_Protocols": 0.08
+    },
+    "geographic_conversion": {
+      "Southeast_Asia": 0.52,
+      "East_Asia": 0.28,
+      "Middle_East": 0.12,
+      "Other": 0.08
+    }
+  }
+}

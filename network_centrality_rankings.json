@@ -1,0 +1,210 @@
+{
+  "degree_centrality_top_10": [
+    {
+      "node": "Sun Yee On",
+      "type": "crime_syndicate",
+      "degree": 0.23809523809523808
+    },
+    {
+      "node": "Hong Kong",
+      "type": "location",
+      "degree": 0.23809523809523808
+    },
+    {
+      "node": "TD Bank",
+      "type": "bank",
+      "degree": 0.19047619047619047
+    },
+    {
+      "node": "Karen Border Guard Force",
+      "type": "crime_syndicate",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "HSBC",
+      "type": "bank",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "Deltec Bank",
+      "type": "bank",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "Cambodia",
+      "type": "location",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "Myanmar",
+      "type": "location",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "P2P Networks",
+      "type": "crypto_p2p",
+      "degree": 0.14285714285714285
+    },
+    {
+      "node": "14K Triad",
+      "type": "crime_syndicate",
+      "degree": 0.09523809523809523
+    }
+  ],
+  "betweenness_centrality_top_10": [
+    {
+      "node": "Sun Yee On",
+      "type": "crime_syndicate",
+      "betweenness": 0.24444444444444444
+    },
+    {
+      "node": "Hong Kong",
+      "type": "location",
+      "betweenness": 0.2285714285714286
+    },
+    {
+      "node": "TD Bank",
+      "type": "bank",
+      "betweenness": 0.09206349206349207
+    },
+    {
+      "node": "Deltec Bank",
+      "type": "bank",
+      "betweenness": 0.0642857142857143
+    },
+    {
+      "node": "Wo Shing Wo",
+      "type": "crime_syndicate",
+      "betweenness": 0.05238095238095239
+    },
+    {
+      "node": "Binance",
+      "type": "crypto_exchange",
+      "betweenness": 0.05238095238095239
+    },
+    {
+      "node": "HSBC",
+      "type": "bank",
+      "betweenness": 0.03571428571428572
+    },
+    {
+      "node": "Cambodia",
+      "type": "location",
+      "betweenness": 0.030158730158730163
+    },
+    {
+      "node": "Myanmar",
+      "type": "location",
+      "betweenness": 0.030158730158730163
+    },
+    {
+      "node": "14K Triad",
+      "type": "crime_syndicate",
+      "betweenness": 0.007936507936507938
+    }
+  ],
+  "closeness_centrality_top_10": [
+    {
+      "node": "Sun Yee On",
+      "type": "crime_syndicate",
+      "closeness": 0.3589743589743589
+    },
+    {
+      "node": "Hong Kong",
+      "type": "location",
+      "closeness": 0.345679012345679
+    },
+    {
+      "node": "TD Bank",
+      "type": "bank",
+      "closeness": 0.2828282828282828
+    },
+    {
+      "node": "HSBC",
+      "type": "bank",
+      "closeness": 0.26666666666666666
+    },
+    {
+      "node": "Cambodia",
+      "type": "location",
+      "closeness": 0.26666666666666666
+    },
+    {
+      "node": "Myanmar",
+      "type": "location",
+      "closeness": 0.26666666666666666
+    },
+    {
+      "node": "Wo Shing Wo",
+      "type": "crime_syndicate",
+      "closeness": 0.25925925925925924
+    },
+    {
+      "node": "Binance",
+      "type": "crypto_exchange",
+      "closeness": 0.25925925925925924
+    },
+    {
+      "node": "14K Triad",
+      "type": "crime_syndicate",
+      "closeness": 0.24561403508771928
+    },
+    {
+      "node": "Huobi",
+      "type": "crypto_exchange",
+      "closeness": 0.24561403508771928
+    }
+  ],
+  "eigenvector_centrality_top_10": [
+    {
+      "node": "Sun Yee On",
+      "type": "crime_syndicate",
+      "eigenvector": 0.4700330451383049
+    },
+    {
+      "node": "TD Bank",
+      "type": "bank",
+      "eigenvector": 0.3561433313590388
+    },
+    {
+      "node": "Cambodia",
+      "type": "location",
+      "eigenvector": 0.323818805310929
+    },
+    {
+      "node": "Myanmar",
+      "type": "location",
+      "eigenvector": 0.323818805310929
+    },
+    {
+      "node": "Hong Kong",
+      "type": "location",
+      "eigenvector": 0.313780608569509
+    },
+    {
+      "node": "Karen Border Guard Force",
+      "type": "crime_syndicate",
+      "eigenvector": 0.3024078677535485
+    },
+    {
+      "node": "P2P Networks",
+      "type": "crypto_p2p",
+      "eigenvector": 0.3024078677535485
+    },
+    {
+      "node": "HSBC",
+      "type": "bank",
+      "eigenvector": 0.24260914519969354
+    },
+    {
+      "node": "14K Triad",
+      "type": "crime_syndicate",
+      "eigenvector": 0.1676251773847564
+    },
+    {
+      "node": "Huobi",
+      "type": "crypto_exchange",
+      "eigenvector": 0.1676251773847564
+    }
+  ]
+}
