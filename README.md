@@ -43,3 +43,12 @@ To replicate this analysis:
 For questions or collaborations, please reach out to:  
 **Rashad Ferguson**  
 [LinkedIn Profile](https://www.linkedin.com/in/rashad-ferguson11/)
+
+
+
+## Key Project Files & Reports
+
+* **GitHub Page:** [Pig Butchering Network Analysis](https://rashad1019.github.io/pig-butchering/)  
+* **Summary Report:** [Preview the PDF](https://github.com/Rashad1019/pig-butchering/blob/main/Pig%20Butchering%20Network%20Analysis%20%E2%80%93%20Summary%20Report.pdf)  
+* **Analysis Notebook:** [Open the Jupyter notebook](https://github.com/Rashad1019/pig-butchering/blob/main/pig_butchering.ipynb)  
+
