@@ -59,3 +59,11 @@ For questions or collaborations, please reach out to:
 * **Analysis Notebook:** [Open the Jupyter notebook](./pig_butchering.ipynb)
 
 
+## Key Project Files & Reports
+
+* **GitHub Page:** [Pig Butchering Network Analysis](https://rashad1019.github.io/pig-butchering/)  
+* **Summary Report:** [Open the PDF](./Summary%20Report.pdf)  
+* **Analysis Notebook:** [Open the Jupyter notebook](./pig_butchering.ipynb)  
+
+
+
