@@ -34,10 +34,9 @@ To replicate this analysis:
 ## Key Project Files & Reports
 
 * **GitHub Page:** [Pig Butchering Network Analysis](https://rashad1019.github.io/pig-butchering/)  
-* **Summary Report:** For business-focused insights and strategic takeaways.  
-  * [Summary Report](https://github.com/Rashad1019/pig-butchering/blob/main/summary_report.pdf)  
-* **Analysis Notebook:** The primary technical notebook for in-depth analysis and code.  
-  * [Analysis Notebook](pig_butchering.ipynb) (Link to the Jupyter notebook in the repository)
+* **Summary Report:** [Download the PDF](https://github.com/Rashad1019/pig-butchering/blob/main/Pig%20Butchering%20Network%20Analysis%20%E2%80%93%20Summary%20Report.pdf)  
+* **Analysis Notebook:** [Open the Jupyter notebook](https://github.com/Rashad1019/pig-butchering/blob/main/pig_butchering.ipynb)
+
 
 ## Contact Info
 
